@@ -12,7 +12,7 @@ npm install puppeteer
 2. Update the input field names (`entry.123456789`) to match your form.
 3. Run the script:
 ```sh
-node script.js
+node formFiller.js
 ```
 
 ## Disclaimer
